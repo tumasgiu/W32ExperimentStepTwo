@@ -1,2 +1,2 @@
 
-int swiftFunc(void);
+int swiftApp(void);

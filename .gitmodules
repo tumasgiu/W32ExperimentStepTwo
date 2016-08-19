@@ -1,0 +1,3 @@
+[submodule "CWin32"]
+	path = CWin32
+	url = git@github.com:tumasgiu/CWin32.git
